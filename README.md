@@ -112,4 +112,4 @@ prediction = model.predict(new_data_scaled)
 ## Author
 
 **Dennis Schira**
-_Capstone Project Module 3 — Purwadhika Data Science Bootcamp_
+<br>_JCDSAH-024 ~ Purwadhika Data Science Bootcamp_
