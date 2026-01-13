@@ -103,7 +103,7 @@ prediction = model.predict(new_data_scaled)
 
 ## Tools & Libraries
 
-- Python 3.x
+- Python 3.9
 - pandas, numpy
 - scikit-learn
 - matplotlib, seaborn
@@ -111,6 +111,6 @@ prediction = model.predict(new_data_scaled)
 
 ## Author
 
-[Your Name]
+`Dennis Schira`
 
-Capstone Project Module 3 — Data Science Bootcamp
+Capstone Project Module 3 — Purwadhika Data Science Bootcamp
