@@ -1,4 +1,4 @@
-### Pickle File (.pkl) tidak bisa diupload sehingga _diupload ke link pengumpulan Gdrive_
+### NOTE!!! Pickle File (.pkl) tidak bisa diupload sehingga _diupload ke link pengumpulan Gdrive_
 
 # California Housing Price Prediction
 
