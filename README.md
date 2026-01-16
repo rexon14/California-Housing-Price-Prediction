@@ -1,3 +1,5 @@
+### Pickle File (.pkl) tidak bisa diupload sehingga _diupload ke link pengumpulan Gdrive_
+
 # California Housing Price Prediction
 
 Machine learning regression model to predict median house values in California districts.
